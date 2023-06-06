@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📄 You can know more about me in my [LinkedIn page](www.linkedin.com/maupagas).
 - 📫 You can reach me at maupagas@gmail.com
 
-🚧 Page on Construction (<u>**6/6/2023**</u>)
+🚧 Page on Construction (**6/6/2023**) 🚧
