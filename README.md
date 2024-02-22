@@ -18,9 +18,10 @@ These are the hightlights of the skills I consider the keystone of my abilities:
 **Some of the things I have built**
 
 - A [mathematical framework] to compute the yields of ATP in microbial pathways. The results were visualized in a MATLAB application. This code would really need probably a translation and re-factoring into Python.
-- An [online simulator tool] to visualize the results of a compartmental model to evaluate the spread of COVID-19
-- A [live dashboard] to showcase simulation results from a bioreactor.
-- [Formal reports] for healthcare decision makers evaluating hospitalization risks between variants.
+- An [online simulator tool](https://envbioprom.shinyapps.io/COVID19_Model_KU/) to visualize the results of a compartmental model to evaluate the spread of COVID-19
+- A [live dashboard](https://envbioprom.shinyapps.io/bioreactor-dashboard/) to showcase the effectiveness of the treatment of a bioreactor treating wastewate with high concentrations of ethanolamine.
+- Wrote in [R and RMarkdown reports]() for healthcare decision makers evaluating hospitalization risks between variants.
 
+You can read a longer description of the projects [here]()
  
 📫 You can reach me by [email](maupagas@gmail.com) or via [LinkedIn](www.linkedin.com/maupagas).
